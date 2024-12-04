@@ -1,5 +1,5 @@
-# LinkUp
-LinkUp is a real-time messaging application built to provide seamless communication. With support for one-on-one and group chats, it allows users to instantly send and receive messages, and engage in interactive conversations.
+# ChatWave
+ChatWave is a real-time messaging application built to provide seamless communication. With support for one-on-one and group chats, it allows users to instantly send and receive messages, and engage in interactive conversations.
 
 Features:
   Real-Time Messaging: Instant message delivery and receipt without page refresh.
